@@ -1,15 +1,9 @@
 # python-jupyter-notebook
+###
 
-* test
-## test
-
-
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-> 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.
+* 003-booking.com: 研究booking.com並抓下顧客留言分類為正向及負向情緒
+* 091-ImageNet: 將ImageNet圖庫抓下至本地端
+* 092-e_hentai: 輸入欲下載的漫畫網址，會在本地端C槽自動建立資料夾並命名
 
 
-中文
+
