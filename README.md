@@ -6,7 +6,7 @@
 * 092-e_hentai: 輸入欲下載的漫畫網址，會在本地端C槽自動建立資料夾並命名
 
 
-# Installation
+## Installation
 ###
 ```
 pip install beautifulsoup4
@@ -19,7 +19,7 @@ pip install Pillow
 pip install urllib
 ```
 
-# Requirements
+## Requirements
 ###
 * Python version 3.5.6
 
